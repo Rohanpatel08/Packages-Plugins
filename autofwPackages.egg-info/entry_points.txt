@@ -1,0 +1,5 @@
+[pytest11]
+plugin1 = autofw.pytest_plugins.pytest_hooks
+plugin2 = autofw.pytest_plugins.session_fixtures
+plugin3 = autofw.pytest_plugins.function_fixtures
+
